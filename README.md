@@ -26,6 +26,3 @@ This repository contains a simple and responsive Body Mass Index (BMI) calculato
 ## Output
 ![image](https://github.com/user-attachments/assets/9fe35f72-6010-4183-8948-cb6b6ce6b645)
 
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you wish.
